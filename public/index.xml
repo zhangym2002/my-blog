@@ -6,8 +6,15 @@
     <description>Recent content in Home on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 13:42:27 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Deploy</title>
+      <link>http://localhost:1313/cn/2024/12/24/first-deploy/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cn/2024/12/24/first-deploy/</guid>
+      <description>&lt;p&gt;按照&lt;a href=&#34;https://hongtaoh.com/cn/2024/03/22/personal-website-tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;郝鸿涛大佬的教程&lt;/a&gt;&#xA;&#xA;成功部署网站，但仍有几个细节需要注意。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在首次使用&lt;code&gt;git push&lt;/code&gt;到GitHub repo时，可能需要输入Github账号密码。这里密码需要使用Github Setting - Developer Setting - Personal access tokens，因为Github已不再支持只使用账号密码链接。&lt;/li&gt;&#xA;&lt;li&gt;使用&lt;strong&gt;Vercel&lt;/strong&gt;部署确实会比GitHub pages简单很多，域名也可以在domains处修改。&lt;/li&gt;&#xA;&lt;li&gt;在&lt;strong&gt;Vercel&lt;/strong&gt;中部署时使用的Hugo版本时0.119.0，而本地新安装的版本为0.140.1。如果直接在本地使用&lt;code&gt;hugo server -D&lt;/code&gt;，会显示存在以下问题：&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ERROR deprecated: .Site.LastChange was deprecated in Hugo v0.123.0 and will be removed in Hugo 0.141.0. Use .Site.Lastmod instead.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;同样的,如果&lt;code&gt;vercel.json&lt;/code&gt;中设置版本为0.140.1也会爆有相同报错。目前解决方法是&lt;code&gt;vercel.json&lt;/code&gt;中设置为较低版本，但代价是&lt;code&gt;hugo server -D&lt;/code&gt;不可用。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Markdown 试水</title>
       <link>http://localhost:1313/cn/2021/01/07/first-post-cn/</link>

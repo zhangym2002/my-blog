@@ -1,6 +1,6 @@
 ---
 title: "First Deploy"
-date: 2024-12-24T12:55:00-06:00
+date: 2024-12-24
 author: "Yiming"
 slug:
 draft: false
@@ -16,4 +16,4 @@ toc: false
 
 > ERROR deprecated: .Site.LastChange was deprecated in Hugo v0.123.0 and will be removed in Hugo 0.141.0. Use .Site.Lastmod instead.
 
-但在Vercel中因为版本较低则不用修改，部署并不会报错。之后可能需要将`.Site.LastChange`修改为`.Site.Lastmod`。
+同样的,如果`vercel.json`中设置版本为0.140.1也会爆有相同报错。目前解决方法是`vercel.json`中设置为较低版本，但代价是`hugo server -D`不可用。

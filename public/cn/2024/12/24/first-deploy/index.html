@@ -1,6 +1,7 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><a name="top"></a>
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hugo-HT</title>
@@ -56,54 +57,75 @@
 </nav>
       </header>
 
+<main class = "content" role="main">
+<div style="text-align: center">
 
+<h1>First Deploy</h1>
 
+<p>Yiming 
+ / 2024-12-24 </p>
 
-<main class = "content">
-
-<div class="list-page">
-<h3 id="中文页面测试">中文页面测试</h3>
-
-
-
-
-<ul>
-  
-  <h2 style="text-align: left;">2024</h2>
-  
-  
-  <p>
-    <span class="date">
-    2024-12-24
-    </span>
-    <a href="/cn/posts/">
-    中文博客
-    </a>
-  </p>
-  
-  
-  
-  <h2 style="text-align: left;">0001</h2>
-  
-  
-  <p>
-    <span class="date">
-    0001-01-01
-    </span>
-    <a href="/cn/about/">
-    王大锤简历
-    </a>
-  </p>
-  
-  
-  
-</ul>
-
+<hr/>
 </div>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/USERNAME/REPONAME/edit/main/content/cn/posts/2024-12-24-first-deploy.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="编辑本页"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p>按照<a href="https://hongtaoh.com/cn/2024/03/22/personal-website-tutorial/" target="_blank" rel="noreferrer noopener">郝鸿涛大佬的教程</a>
+
+成功部署网站，但仍有几个细节需要注意。</p>
+<ol>
+<li>在首次使用<code>git push</code>到GitHub repo时，可能需要输入Github账号密码。这里密码需要使用Github Setting - Developer Setting - Personal access tokens，因为Github已不再支持只使用账号密码链接。</li>
+<li>使用<strong>Vercel</strong>部署确实会比GitHub pages简单很多，域名也可以在domains处修改。</li>
+<li>在<strong>Vercel</strong>中部署时使用的Hugo版本时0.119.0，而本地新安装的版本为0.140.1。如果直接在本地使用<code>hugo server -D</code>，会显示存在以下问题：</li>
+</ol>
+<blockquote>
+<p>ERROR deprecated: .Site.LastChange was deprecated in Hugo v0.123.0 and will be removed in Hugo 0.141.0. Use .Site.Lastmod instead.</p>
+</blockquote>
+<p>同样的,如果<code>vercel.json</code>中设置版本为0.140.1也会爆有相同报错。目前解决方法是<code>vercel.json</code>中设置为较低版本，但代价是<code>hugo server -D</code>不可用。</p>
+
+
+<p style="color:#777;">最后一次修改于 2024-12-24</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
+
 </main>
 
 <footer class="footer">
   <div class="content">
+
+<script src="https://giscus.app/client.js"
+        data-repo="hongtaoh/mywebsite"
+        data-repo-id="R_kgDOLwIVBA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLwIVBM4CeyR1"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</br>
  
 </div>
   <script type="text/javascript" src="/js/math-code.js"></script>
@@ -146,9 +168,5 @@
 
 
 
- 
 
-<div style="text-align: center; color: gray; margin-top: -20px; font-size: 19px;
-margin-bottom: 10px">
 
-</div>
