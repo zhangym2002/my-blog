@@ -1,6 +1,6 @@
 baseURL = "https://yumz2002.vercel.app/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "Yiming's Page"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
