@@ -7,15 +7,21 @@ Email: zhangym648@outlook.com
 
 ## EDUCATION
 
-Master of Statistics and Data Science, University of Wisconsin-Madison, Sep 2024 - May 2025(expected)
+Master of Statistics and Data Science, Sep 2024 - May 2025(expected)
+
+University of Wisconsin-Madison
 - GPA: 3.5/4
 - Main courses: Data Science Computing Project(A), Statistical Learning, Experimental Design I
 
-Visiting International Students Program, University of Wisconsin-Madison Sep 2023 - Dec 2023
+Visiting International Students Program, Sep 2023 - Dec 2023
+
+University of Wisconsin-Madison
 - GPA: 3.7/4
 - Main courses: Statistical Methods, Statistical Inference, Financial Statistics (A), Evaluating Methodology (A).
 
-Bachelor of Statistics, Southern University of Science and Technology(SUSTech) Sep 2020 - Jul 2024
+Bachelor of Statistics, Sep 2020 - Jul 2024
+
+Southern University of Science and Technology(SUSTech)
 - GPA : 3.56/4 Rank: 14/38
 - Main courses: Mathematical Analysis, Linear Algebra, Mathematical Statistics, Statistical Computation and
 Software, Time Series Analysis
@@ -33,12 +39,15 @@ Data Science Program, North Carolina State University (Online), Jan 2021
 ## PROJECTS
 
 [Large-scale distributed computing at CHTC ](https://pages.cs.wisc.edu/~jgillett/DSCP/4/hw4.pdf) | Emacs & Shell & R, Spring 2024
+
 A full-scale search using the CHTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift
 Lyman-break galaxy, requiring running about 2500 jobs.
 
 Google Smartphone Decimeter Challenge | Python, Spring 2024
+
 Based on a Kaggle competition, comprehensively used methods including polynomial regression, Kalman filtering,
 and LSTM networks to process the raw data and integrate predictions and errors.
 
 Statistical Data Analysis with SAS | Python, Spring 2023
+
 Sentiment analysis of comments about Shanghai accommodations on Airbnb
