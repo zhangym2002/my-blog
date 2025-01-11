@@ -8,19 +8,16 @@ Email: zhangym648@outlook.com
 ## EDUCATION
 
 Master of Statistics and Data Science, Sep 2024 - May 2025(expected)
-
 University of Wisconsin-Madison
 - GPA: 3.5/4
 - Main courses: Data Science Computing Project(A), Statistical Learning, Experimental Design I
 
 Visiting International Students Program, Sep 2023 - Dec 2023
-
 University of Wisconsin-Madison
 - GPA: 3.7/4
 - Main courses: Statistical Methods, Statistical Inference, Financial Statistics (A), Evaluating Methodology (A).
 
 Bachelor of Statistics, Sep 2020 - Jul 2024
-
 Southern University of Science and Technology(SUSTech)
 - GPA : 3.56/4 Rank: 14/38
 - Main courses: Mathematical Analysis, Linear Algebra, Mathematical Statistics, Statistical Computation and
