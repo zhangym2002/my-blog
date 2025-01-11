@@ -3,67 +3,42 @@ title: "Curriculum Vitae"
 type : list-single
 ---
 
-## Albert Einstein
+Email: zhangym648@outlook.com
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+## EDUCATION
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+Master of Statistics and Data Science, University of Wisconsin-Madison, Sep 2024 - May 2025(expected)
+- GPA: 3.5/4
+- Main courses: Data Science Computing Project(A), Statistical Learning, Experimental Design I
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+Visiting International Students Program, University of Wisconsin-Madison Sep 2023 - Dec 2023
+- GPA: 3.7/4
+- Main courses: Statistical Methods, Statistical Inference, Financial Statistics (A), Evaluating Methodology (A).
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+Bachelor of Statistics, Southern University of Science and Technology(SUSTech) Sep 2020 - Jul 2024
+- GPA : 3.56/4 Rank: 14/38
+- Main courses: Mathematical Analysis, Linear Algebra, Mathematical Statistics, Statistical Computation and
+Software, Time Series Analysis
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+## EXPERIENCE
+[Self-supervised Learning Seminar](https://niusj03.github.io/23summer/), Main Speaker, Jun 2023 - Aug 2023
 
-### Areas of specialisation
-Physics; Relativity Theory
+Data Science Program, North Carolina State University (Online), Jan 2021
 
-### Appointments held
+## AWARDS & ACHIEVEMENTS
+- First Prize of Guangdong Province in Chinese Mathematics Competitions, Oct 2022
+- Second Prize of Guangdong Province in China Undergraduate Mathematical Contest in Modelling, Oct 2021
+- Outstanding student scholarship (SUSTech), Sep 2021
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+## PROJECTS
 
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+[Large-scale distributed computing at CHTC ](https://pages.cs.wisc.edu/~jgillett/DSCP/4/hw4.pdf) | Emacs & Shell & R, Spring 2024
+A full-scale search using the CHTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift
+Lyman-break galaxy, requiring running about 2500 jobs.
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+Google Smartphone Decimeter Challenge | Python, Spring 2024
+Based on a Kaggle competition, comprehensively used methods including polynomial regression, Kalman filtering,
+and LSTM networks to process the raw data and integrate predictions and errors.
 
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
-
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
-
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
-
-### Teaching
-
-...
-
-### Service to the profession
-
-...
+Statistical Data Analysis with SAS | Python, Spring 2023
+Sentiment analysis of comments about Shanghai accommodations on Airbnb
